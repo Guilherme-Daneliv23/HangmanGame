@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\c#\\jogoforca\\hangmangame\\hangmangame\\gamelogic\\hangmanmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|solutionrelative:hangmangame\\gamelogic\\hangmanmatch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\c#\\jogoforca\\hangmangame\\hangmangame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|solutionrelative:hangmangame\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\c#\\jogoforca\\hangmangame\\hangmangame\\scream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|solutionrelative:hangmangame\\scream.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\c#\\jogoforca\\hangmangame\\hangmangame\\entities\\gamewords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|solutionrelative:hangmangame\\entities\\gamewords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\c#\\jogoforca\\hangmangame\\hangmangame\\extensions\\charextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|solutionrelative:hangmangame\\extensions\\charextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|c:\\users\\user\\onedrive\\\u00E1rea de trabalho\\c#\\jogoforca\\hangmangame\\hangmangame\\entities\\gibbettable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58B32C1E-9000-44A5-8D46-A2CBA2F0B832}|HangmanGame\\HangmanGame.csproj|solutionrelative:hangmangame\\entities\\gibbettable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GibbetTable.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\Entities\\GibbetTable.cs",
+              "RelativeDocumentMoniker": "HangmanGame\\Entities\\GibbetTable.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\Entities\\GibbetTable.cs",
+              "RelativeToolTip": "HangmanGame\\Entities\\GibbetTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:42:40.697Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CharExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\Extensions\\CharExtensions.cs",
+              "RelativeDocumentMoniker": "HangmanGame\\Extensions\\CharExtensions.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\Extensions\\CharExtensions.cs",
+              "RelativeToolTip": "HangmanGame\\Extensions\\CharExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T21:36:17.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HangmanMatch.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\GameLogic\\HangmanMatch.cs",
+              "RelativeDocumentMoniker": "HangmanGame\\GameLogic\\HangmanMatch.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\GameLogic\\HangmanMatch.cs",
+              "RelativeToolTip": "HangmanGame\\GameLogic\\HangmanMatch.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAUwEgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:54:05.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameWords.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\Entities\\GameWords.cs",
+              "RelativeDocumentMoniker": "HangmanGame\\Entities\\GameWords.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\Entities\\GameWords.cs",
+              "RelativeToolTip": "HangmanGame\\Entities\\GameWords.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:37:12.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scream.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\Scream.cs",
+              "RelativeDocumentMoniker": "HangmanGame\\Scream.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\Scream.cs",
+              "RelativeToolTip": "HangmanGame\\Scream.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:27:36.324Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\Program.cs",
+              "RelativeDocumentMoniker": "HangmanGame\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\\u00C1rea de Trabalho\\C#\\JogoForca\\HangmanGame\\HangmanGame\\Program.cs",
+              "RelativeToolTip": "HangmanGame\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T12:04:42.28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
